@@ -1,15 +1,15 @@
 proxies:
-  - name: "tiktok|YLtd.love@xray.com"
+  - name: "S47E.love@xray.com"
     type: vmess
-    server: 38.180.242.253
-    port: 49660
-    uuid: d4666109-1fb7-4532-8818-903396459f68
+    server: 37.1.214.83
+    port: 12345
+    uuid: 4614754c-c5a5-4034-d1a4-d6f9d061c74b
     alterId: 0
     cipher: auto
     network: ws
     tls: false
     skip-cert-verify: true
     ws-opts:
-      path: "/d4666109"
+      path: "/4614754c"
       headers:
         Host: ""
